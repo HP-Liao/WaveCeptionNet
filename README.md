@@ -1,5 +1,9 @@
 # WaveCeptionNet
-machine-readable table containing a list of the TCEs and associated information
+
+The code is being organized and uploaded.
+
+
+## machine-readable table containing a list of the TCEs and associated information
 
 multiple.csv: multiple transiting planet systems from the confirmed planet system table at NExScI (https://nexsci.caltech.edu/).
 
