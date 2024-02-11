@@ -1,0 +1,369 @@
+planet_name,host_name,number_of_stars,number_of_planets,discoverymethod,disc_facility,type,class_scores_EB,class_scores_PC,class_scores_V,class_scores_IS,predicted_classification
+AU Mic b,AU Mic,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.4792574,0.5174555,0.0011262868,0.0021608083,PC
+DS Tuc A b,DS Tuc A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.66248757,0.3228103,1.0987214e-05,0.014691201,EB
+GJ 1252 b,GJ 1252,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06694732,0.9330487,1.153117e-07,3.892596e-06,PC
+GJ 143 b,GJ 143,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8325844,0.16736224,6.203929e-08,5.3345997e-05,EB
+GJ 357 b,GJ 357,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10039999,0.8995996,4.9920534e-09,3.7534838e-07,PC
+HD 108236 b,HD 108236,1,5,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.2329294,0.7670681,3.6581085e-08,2.5160523e-06,PC
+HD 108236 c,HD 108236,1,5,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.2329294,0.7670681,3.6581085e-08,2.5160523e-06,PC
+HD 108236 d,HD 108236,1,5,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.2329294,0.7670681,3.6581085e-08,2.5160523e-06,PC
+HD 108236 e,HD 108236,1,5,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.2329294,0.7670681,3.6581085e-08,2.5160523e-06,PC
+HD 109833 b,HD 109833,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.88201255,0.117909566,6.135967e-05,1.6588192e-05,EB
+HD 109833 c,HD 109833,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.88201255,0.117909566,6.135967e-05,1.6588192e-05,EB
+HD 110082 b,HD 110082,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.22370936,0.76837885,4.340943e-05,0.0078683365,PC
+HD 110113 b,HD 110113,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.060094915,0.93990237,8.3717936e-08,2.614926e-06,PC
+HD 1397 b,HD 1397,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.0028271214,0.25848442,0.048263848,0.6904246,IS
+HD 152843 b,HD 152843,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.101453684,0.8985387,5.1119045e-08,7.5086336e-06,PC
+HD 152843 c,HD 152843,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.101453684,0.8985387,5.1119045e-08,7.5086336e-06,PC
+HD 15337 b,HD 15337,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11012163,0.88987684,3.6625813e-08,1.5346435e-06,PC
+HD 15337 c,HD 15337,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11012163,0.88987684,3.6625813e-08,1.5346435e-06,PC
+HD 15906 b,HD 15906,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.16425018,0.8357449,2.8943063e-07,4.639802e-06,PC
+HD 15906 c,HD 15906,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.16425018,0.8357449,2.8943063e-07,4.639802e-06,PC
+HD 183579 b,HD 183579,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.24702904,0.75295603,8.660818e-07,1.4042159e-05,PC
+HD 18599 b,HD 18599,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.518161,0.47835362,0.0022044973,0.0012809053,EB
+HD 191939 b,HD 191939,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.042274117,0.95772547,3.4838876e-09,4.5570172e-07,PC
+HD 191939 c,HD 191939,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.042274117,0.95772547,3.4838876e-09,4.5570172e-07,PC
+HD 191939 d,HD 191939,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.042274117,0.95772547,3.4838876e-09,4.5570172e-07,PC
+HD 202772 A b,HD 202772 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.7774167,0.22257967,1.0977126e-07,3.5168277e-06,EB
+HD 20329 b,HD 20329,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.17957096,0.8203499,3.7863607e-05,4.138722e-05,PC
+HD 207496 b,HD 207496,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.75660616,0.234725,0.006538489,0.0021304067,EB
+HD 213885 b,HD 213885,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.1520123,0.84798306,1.8534274e-07,4.511829e-06,PC
+HD 21749 c,GJ 143,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8325844,0.16736224,6.203929e-08,5.3345997e-05,EB
+HD 219666 b,HD 219666,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06168795,0.9383116,4.8066053e-09,4.2650578e-07,PC
+HD 221416 b,HD 221416,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06358375,0.93641335,5.0204033e-08,2.8412387e-06,PC
+HD 22946 d,HD 22946,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03915914,0.96083826,6.1486276e-08,2.5262136e-06,PC
+HD 23472 b,HD 23472,1,5,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06800073,0.9319957,2.4628545e-08,3.564244e-06,PC
+HD 23472 c,HD 23472,1,5,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06800073,0.9319957,2.4628545e-08,3.564244e-06,PC
+HD 23472 d,HD 23472,1,5,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06800073,0.9319957,2.4628545e-08,3.564244e-06,PC
+HD 23472 e,HD 23472,1,5,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06800073,0.9319957,2.4628545e-08,3.564244e-06,PC
+HD 23472 f,HD 23472,1,5,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06800073,0.9319957,2.4628545e-08,3.564244e-06,PC
+HD 235088 b,HD 235088,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.015642628,0.9843465,2.3960484e-07,1.05963845e-05,PC
+HD 2685 b,HD 2685,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.70366997,0.29632434,1.153948e-07,5.620371e-06,EB
+HD 28109 b,HD 28109,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.042015735,0.95797217,2.9791178e-07,1.1813383e-05,PC
+HD 28109 c,HD 28109,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.042015735,0.95797217,2.9791178e-07,1.1813383e-05,PC
+HD 28109 d,HD 28109,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.042015735,0.95797217,2.9791178e-07,1.1813383e-05,PC
+HD 332231 b,HD 332231,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8784411,0.12152973,1.9859193e-07,2.8980978e-05,EB
+HD 5278 b,HD 5278,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.049896482,0.9501026,1.1926777e-08,9.155127e-07,PC
+HD 56414 b,HD 56414,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.020575836,0.9794226,2.8892439e-08,1.5244701e-06,PC
+HD 63433 b,HD 63433,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.3749904,0.5712657,6.891508e-05,0.053675,PC
+HD 63433 c,HD 63433,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.3749904,0.5712657,6.891508e-05,0.053675,PC
+HD 63433 d,HD 63433,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.3749904,0.5712657,6.891508e-05,0.053675,PC
+HD 63935 b,HD 63935,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.087073,0.9129205,7.638978e-08,6.4133756e-06,PC
+HD 73583 b,HD 73583,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.47504508,0.52493566,1.2671541e-06,1.8025623e-05,PC
+HD 73583 c,HD 73583,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.47504508,0.52493566,1.2671541e-06,1.8025623e-05,PC
+HD 86226 c,HD 86226,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.087915264,0.91208154,7.241383e-08,3.1589345e-06,PC
+HD 93963 A b,HD 93963 A,2,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03948444,0.9605114,9.9765074e-08,4.0208565e-06,PC
+HD 93963 A c,HD 93963 A,2,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03948444,0.9605114,9.9765074e-08,4.0208565e-06,PC
+HIP 113103 b,HIP 113103,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,5.076115e-07,3.256574e-05,0.30761817,0.6923488,IS
+HIP 113103 c,HIP 113103,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,5.076115e-07,3.256574e-05,0.30761817,0.6923488,IS
+HIP 29442 b,HIP 29442,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.09302626,0.9069716,2.6034142e-08,2.10378e-06,PC
+HIP 65 A b,HIP 65 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.65053695,0.34946203,1.7810028e-07,8.279656e-07,EB
+HIP 67522 b,HIP 67522,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.9943089,0.005651775,2.9084022e-05,1.0302544e-05,EB
+HIP 94235 b,HIP 94235,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.056631334,0.9101111,0.02806955,0.0051880064,PC
+HIP 9618 b,HIP 9618,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.13816334,0.8618348,1.6571569e-08,1.8105992e-06,PC
+HIP 9618 c,HIP 9618,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.13816334,0.8618348,1.6571569e-08,1.8105992e-06,PC
+HIP 97166 b,HIP 97166,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.08235561,0.9176434,1.6662518e-08,9.581025e-07,PC
+HR 858 b,HR 858,2,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10928966,0.890704,1.5480163e-07,6.2241393e-06,PC
+HR 858 c,HR 858,2,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10928966,0.890704,1.5480163e-07,6.2241393e-06,PC
+HR 858 d,HR 858,2,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10928966,0.890704,1.5480163e-07,6.2241393e-06,PC
+L 168-9 b,L 168-9,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.12575163,0.8742472,7.0723125e-08,1.1791112e-06,PC
+L 98-59 b,L 98-59,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.24727082,0.752728,6.1446435e-08,1.1111948e-06,PC
+L 98-59 c,L 98-59,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.24727082,0.752728,6.1446435e-08,1.1111948e-06,PC
+L 98-59 d,L 98-59,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.24727082,0.752728,6.1446435e-08,1.1111948e-06,PC
+LHS 1815 b,LHS 1815,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.04079744,0.9591974,1.5896345e-07,4.94501e-06,PC
+LHS 3844 b,LHS 3844,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.9142889,0.085582264,3.0801813e-05,9.806006e-05,EB
+LP 714-47 b,LP 714-47,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.5648657,0.4351326,1.0170945e-08,1.7485266e-06,EB
+LP 791-18 b,LP 791-18,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11583047,0.8841688,1.6187519e-08,6.906122e-07,PC
+LP 791-18 c,LP 791-18,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11583047,0.8841688,1.6187519e-08,6.906122e-07,PC
+LTT 1445 A b,LTT 1445 A,3,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.24289067,0.7570352,9.105828e-07,7.3196556e-05,PC
+LTT 9779 b,LTT 9779,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.2872698,0.712728,2.0373449e-07,1.9825563e-06,PC
+NGTS-11 b,NGTS-11,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,5.5817463e-06,0.0033020505,0.011135927,0.9855564,IS
+NGTS-20 b,NGTS-20,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,1.736515e-07,0.0023906776,0.00021681748,0.9973923,IS
+TIC 172900988 b,TIC 172900988 Aa,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.9996581,0.0002834565,6.622113e-06,5.1788225e-05,EB
+TIC 237913194 b,TIC 237913194,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.100455314,0.89954394,6.094575e-09,6.99975e-07,PC
+TIC 257060897 b,TIC 257060897,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.7664044,0.23359162,2.3984808e-07,3.7733778e-06,EB
+TIC 279401253 b,TIC 279401253,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,1.6224381e-05,0.008019826,0.0118927825,0.98007125,IS
+TOI-1052 b,TOI-1052,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.103479184,0.896517,1.4533269e-07,3.7180894e-06,PC
+TOI-1062 b,TOI-1062,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03560667,0.9643645,1.3166122e-06,2.7421811e-05,PC
+TOI-1064 b,TOI-1064,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06650895,0.9334879,1.3645219e-07,2.997231e-06,PC
+TOI-1064 c,TOI-1064,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06650895,0.9334879,1.3645219e-07,2.997231e-06,PC
+TOI-1075 b,TOI-1075,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.177714,0.8222672,9.335687e-07,1.7867142e-05,PC
+TOI-1107 b,TOI-1107,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8417172,0.1582775,4.4821414e-07,4.858491e-06,EB
+TOI-1130 b,TOI-1130,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.54781914,0.45178148,2.9825932e-07,0.0003990776,EB
+TOI-1130 c,TOI-1130,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.54781914,0.45178148,2.9825932e-07,0.0003990776,EB
+TOI-1136 b,TOI-1136,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.6129974,0.38674158,0.00017123228,8.9705485e-05,EB
+TOI-1136 c,TOI-1136,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.6129974,0.38674158,0.00017123228,8.9705485e-05,EB
+TOI-1136 d,TOI-1136,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.6129974,0.38674158,0.00017123228,8.9705485e-05,EB
+TOI-1136 e,TOI-1136,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.6129974,0.38674158,0.00017123228,8.9705485e-05,EB
+TOI-1136 f,TOI-1136,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.6129974,0.38674158,0.00017123228,8.9705485e-05,EB
+TOI-1136 g,TOI-1136,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.6129974,0.38674158,0.00017123228,8.9705485e-05,EB
+TOI-1181 b,TOI-1181,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.9383833,0.061606415,2.5083689e-06,7.820922e-06,EB
+TOI-1194 b,TOI-1194,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8880648,0.111929476,3.6542508e-07,5.305074e-06,EB
+TOI-1201 b,TOI-1201,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03147203,0.96852344,5.3449835e-08,4.4488042e-06,PC
+TOI-122 b,TOI-122,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.07069937,0.9292921,4.799652e-07,8.100718e-06,PC
+TOI-1221 b,TOI-1221,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.019496713,0.9804936,7.2793375e-07,8.920699e-06,PC
+TOI-1227 b,TOI-1227,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.19454056,0.80516136,9.155355e-05,0.00020657566,PC
+TOI-1235 b,TOI-1235,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06545854,0.93452847,3.63577e-07,1.2608591e-05,PC
+TOI-1246 b,TOI-1246,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10262611,0.89737225,6.915179e-08,1.5553464e-06,PC
+TOI-1246 c,TOI-1246,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10262611,0.89737225,6.915179e-08,1.5553464e-06,PC
+TOI-1246 d,TOI-1246,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10262611,0.89737225,6.915179e-08,1.5553464e-06,PC
+TOI-1246 e,TOI-1246,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10262611,0.89737225,6.915179e-08,1.5553464e-06,PC
+TOI-125 b,TOI-125,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.057345588,0.94264686,4.2642955e-07,7.1208915e-06,PC
+TOI-125 c,TOI-125,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.057345588,0.94264686,4.2642955e-07,7.1208915e-06,PC
+TOI-125 d,TOI-125,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.057345588,0.94264686,4.2642955e-07,7.1208915e-06,PC
+TOI-1259 A b,TOI-1259 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.69717336,0.30276063,1.2084948e-07,6.5958964e-05,EB
+TOI-1260 b,TOI-1260,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.02363082,0.9763614,1.5507543e-07,7.6210245e-06,PC
+TOI-1260 c,TOI-1260,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.02363082,0.9763614,1.5507543e-07,7.6210245e-06,PC
+TOI-1260 d,TOI-1260,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.02363082,0.9763614,1.5507543e-07,7.6210245e-06,PC
+TOI-1266 b,TOI-1266,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.122044094,0.8779506,1.4445808e-07,5.1782013e-06,PC
+TOI-1266 c,TOI-1266,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.122044094,0.8779506,1.4445808e-07,5.1782013e-06,PC
+TOI-1268 b,TOI-1268,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.12738355,0.87260395,3.6548094e-08,1.2400526e-05,PC
+TOI-1272 b,TOI-1272,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.09752128,0.90247595,1.9409899e-07,2.560093e-06,PC
+TOI-1278 b,TOI-1278,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.12052957,0.8794675,4.3745153e-08,2.9099374e-06,PC
+TOI-1288 b,TOI-1288,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.16677226,0.83322537,1.3869416e-07,2.2270062e-06,PC
+TOI-1296 b,TOI-1296,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.7844429,0.21554863,1.0880601e-06,7.359701e-06,EB
+TOI-1298 b,TOI-1298,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.42341876,0.5765685,7.1361393e-07,1.2097027e-05,PC
+TOI-132 b,TOI-132,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.0699716,0.9299979,1.1601006e-06,2.9309174e-05,PC
+TOI-1333 b,TOI-1333,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.028926656,0.15059467,0.25707036,0.5634083,IS
+TOI-1338 b,TOI-1338 A,2,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8800747,0.11978476,9.1137764e-08,0.00014050923,EB
+TOI-139 b,TOI-139,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.17108,0.8289153,1.4604943e-07,4.5610473e-06,PC
+TOI-1408 b,TOI-1408,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.3197815,0.6802165,2.5195565e-08,1.9375198e-06,PC
+TOI-1416 b,TOI-1416,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.035882093,0.964116,9.4461406e-08,1.8329758e-06,PC
+TOI-1420 b,TOI-1420,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.3784949,0.62149626,1.15470236e-07,8.69951e-06,PC
+TOI-1422 b,TOI-1422,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.05496051,0.9450367,5.7282993e-08,2.733873e-06,PC
+TOI-1431 b,TOI-1431,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.9821962,0.017800938,2.6498677e-07,2.5958666e-06,EB
+TOI-1444 b,TOI-1444,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.012798927,0.9871991,3.5408963e-08,1.9958652e-06,PC
+TOI-1452 b,TOI-1452,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.4719668,0.527585,2.5261446e-05,0.00042291955,PC
+TOI-1468 b,TOI-1468,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.37899965,0.6209988,6.775258e-08,1.5008626e-06,PC
+TOI-1468 c,TOI-1468,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.37899965,0.6209988,6.775258e-08,1.5008626e-06,PC
+TOI-1470 b,TOI-1470,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.074409336,0.9255748,8.621308e-07,1.5067817e-05,PC
+TOI-1470 c,TOI-1470,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.074409336,0.9255748,8.621308e-07,1.5067817e-05,PC
+TOI-1478 b,TOI-1478,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.61908096,0.38090035,6.382774e-08,1.8616884e-05,EB
+TOI-150.01,TOI-150,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.5215227,0.47847298,1.5407242e-07,4.2237557e-06,EB
+TOI-1516 b,TOI-1516,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.20203911,0.7979442,4.0827e-07,1.623071e-05,PC
+TOI-157 b,TOI-157,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.176037,0.8239605,5.9481383e-08,2.4968876e-06,PC
+TOI-163 b,TOI-163,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.16379559,0.8361996,2.6608802e-08,4.7557164e-06,PC
+TOI-1634 b,TOI-1634,2,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,1.2310629e-07,0.0004856444,0.00030398474,0.99921024,IS
+TOI-1670 b,TOI-1670,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03176309,0.96822274,8.723278e-07,1.3326532e-05,PC
+TOI-1670 c,TOI-1670,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03176309,0.96822274,8.723278e-07,1.3326532e-05,PC
+TOI-1680 b,TOI-1680,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.026137484,0.9738609,1.6300453e-08,1.6474975e-06,PC
+TOI-1685 b,TOI-1685,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.042375132,0.95760554,5.3101957e-07,1.892093e-05,PC
+TOI-169 b,TOI-169,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.21139717,0.7886016,3.338615e-08,1.2352759e-06,PC
+TOI-1693 b,TOI-1693,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.030982083,0.9690167,3.0859724e-08,1.2874212e-06,PC
+TOI-1694 b,TOI-1694,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.16667195,0.8333276,9.870841e-09,5.2923514e-07,PC
+TOI-1695 b,TOI-1695,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03823712,0.9617604,1.9248791e-08,2.4869057e-06,PC
+TOI-1696 b,TOI-1696,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.04644194,0.95353436,9.611779e-07,2.2689585e-05,PC
+TOI-1710 b,TOI-1710,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.772123,0.22786547,3.1576963e-07,1.12814705e-05,EB
+TOI-172 b,TOI-172,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.011937448,0.9880498,6.3106125e-09,1.2656905e-05,PC
+TOI-1728 b,TOI-1728,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.061988447,0.9380109,8.725528e-09,6.901599e-07,PC
+TOI-1736 b,TOI-1736,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.015516496,0.984479,3.9546514e-08,4.408826e-06,PC
+TOI-1749 b,TOI-1749,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.028465858,0.97152936,1.3539491e-07,4.6475966e-06,PC
+TOI-1749 c,TOI-1749,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.028465858,0.97152936,1.3539491e-07,4.6475966e-06,PC
+TOI-1749 d,TOI-1749,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.028465858,0.97152936,1.3539491e-07,4.6475966e-06,PC
+TOI-1759 b,TOI-1759,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.047482494,0.9525084,7.120651e-08,8.981479e-06,PC
+TOI-178 b,TOI-178,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10685902,0.89313865,9.6414155e-08,2.2620777e-06,PC
+TOI-178 c,TOI-178,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10685902,0.89313865,9.6414155e-08,2.2620777e-06,PC
+TOI-178 d,TOI-178,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10685902,0.89313865,9.6414155e-08,2.2620777e-06,PC
+TOI-178 e,TOI-178,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10685902,0.89313865,9.6414155e-08,2.2620777e-06,PC
+TOI-178 g,TOI-178,1,6,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10685902,0.89313865,9.6414155e-08,2.2620777e-06,PC
+TOI-1789 b,TOI-1789,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.040564556,0.95943433,8.997248e-09,1.1726424e-06,PC
+TOI-1801 b,TOI-1801,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.014844271,0.9851538,2.386607e-08,2.0281855e-06,PC
+TOI-1807 b,TOI-1807,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.55325526,0.44567344,3.2236025e-05,0.001039105,EB
+TOI-181 b,TOI-181,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.49498928,0.505003,6.1445476e-08,7.680817e-06,PC
+TOI-1811 b,TOI-1811,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.087424144,0.91256744,8.046851e-09,8.424817e-06,PC
+TOI-1820 b,TOI-1820,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,3.849153e-06,0.0012399947,0.02017322,0.978583,IS
+TOI-1842 b,TOI-1842,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.0067245774,0.99304044,9.663736e-07,0.00023396296,PC
+TOI-1853 b,TOI-1853,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,2.2673157e-06,0.0006196219,0.0009980772,0.99838006,IS
+TOI-1859 b,TOI-1859,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.43757313,0.56242514,7.665621e-09,1.755343e-06,PC
+TOI-1860 b,TOI-1860,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.6024822,0.39702234,7.0011724e-06,0.00048845453,EB
+TOI-1899 b,TOI-1899,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10501179,0.8949861,4.0555257e-09,2.1823068e-06,PC
+TOI-1937 A b,TOI-1937 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.40413582,0.5958619,1.6486537e-07,2.0573855e-06,PC
+TOI-199 b,TOI-199,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.7889811,0.21100639,5.2434224e-08,1.2479242e-05,EB
+TOI-2000 b,TOI-2000,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.33973595,0.66026026,5.5292606e-08,3.6957413e-06,PC
+TOI-2000 c,TOI-2000,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.33973595,0.66026026,5.5292606e-08,3.6957413e-06,PC
+TOI-201 b,TOI-201,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.91946316,0.08053054,2.4829856e-08,6.360688e-06,EB
+TOI-2010 b,TOI-2010,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8418257,0.1581617,3.8230215e-08,1.2582672e-05,EB
+TOI-2025 b,TOI-2025,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.115030766,0.88496417,2.6615226e-08,4.9896553e-06,PC
+TOI-2046 b,TOI-2046,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.61352235,0.3864713,9.4840414e-07,5.3530202e-06,EB
+TOI-2048 b,TOI-2048,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.042910445,0.95706546,2.868012e-06,2.1240197e-05,PC
+TOI-206 b,TOI-206,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.024001284,0.9759971,2.1398883e-08,1.5890367e-06,PC
+TOI-2076 b,TOI-2076,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.77441335,0.22549914,5.0589233e-06,8.244357e-05,EB
+TOI-2076 c,TOI-2076,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.77441335,0.22549914,5.0589233e-06,8.244357e-05,EB
+TOI-2076 d,TOI-2076,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.77441335,0.22549914,5.0589233e-06,8.244357e-05,EB
+TOI-2081 b,TOI-2081,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.025657965,0.97433543,1.9738249e-07,6.379736e-06,PC
+TOI-2084 b,TOI-2084,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.038973432,0.96102154,1.15584236e-07,4.940839e-06,PC
+TOI-2095 b,TOI-2095,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.09868427,0.9013112,3.4888515e-08,4.451874e-06,PC
+TOI-2095 c,TOI-2095,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.09868427,0.9013112,3.4888515e-08,4.451874e-06,PC
+TOI-2096 b,TOI-2096,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.025776416,0.9742216,2.5223104e-08,1.9275128e-06,PC
+TOI-2096 c,TOI-2096,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.025776416,0.9742216,2.5223104e-08,1.9275128e-06,PC
+TOI-2109 b,TOI-2109,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.029761933,0.07574999,0.3318744,0.56261367,IS
+TOI-2134 b,TOI-2134,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.9285364,0.07144641,2.871758e-08,1.7138054e-05,EB
+TOI-2134 c,TOI-2134,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.9285364,0.07144641,2.871758e-08,1.7138054e-05,EB
+TOI-2136 b,TOI-2136,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.022302067,0.97769654,9.430035e-09,1.4348732e-06,PC
+TOI-2141 b,TOI-2141,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.14963584,0.8503621,1.6955262e-08,1.9696322e-06,PC
+TOI-2145 b,TOI-2145,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.3407394,0.6592246,4.1674863e-07,3.552704e-05,PC
+TOI-2152 A b,TOI-2152,3,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.14679137,0.85320723,1.27566135e-08,1.3752118e-06,PC
+TOI-2154 b,TOI-2154,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.85947585,0.14052305,4.9305225e-08,1.0991425e-06,EB
+TOI-2158 b,TOI-2158,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.09469114,0.9053062,1.3476444e-08,2.65168e-06,PC
+TOI-216.01,TOI-216,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.73719347,0.2628008,1.872941e-08,5.6647696e-06,EB
+TOI-216.02,TOI-216,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.73719347,0.2628008,1.872941e-08,5.6647696e-06,EB
+TOI-2180 b,TOI-2180,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06871852,0.9312795,3.0323278e-08,1.9459885e-06,PC
+TOI-2184 b,TOI-2184,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.05576351,0.9442217,3.8417505e-07,1.4472252e-05,PC
+TOI-2193 A b,TOI-2193 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.0084698815,0.9915264,4.875483e-09,3.6723036e-06,PC
+TOI-2196 b,TOI-2196,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.001933481,0.99806005,2.1740625e-08,6.4030223e-06,PC
+TOI-220 b,TOI-220,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.038176306,0.9618224,2.7563093e-08,1.2166134e-06,PC
+TOI-2202 b,TOI-2202,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.35705826,0.6429375,4.4643e-08,4.147022e-06,PC
+TOI-2207 b,TOI-2207,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.057318885,0.9426708,1.601944e-08,1.0267329e-05,PC
+TOI-2236 b,TOI-2236,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.0691239,0.93087286,1.4373047e-08,3.1965367e-06,PC
+TOI-2257 b,TOI-2257,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.027784515,0.9722101,1.19165534e-07,5.162942e-06,PC
+TOI-2260 b,TOI-2260,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.45968494,0.53924394,0.0007934044,0.00027773096,PC
+TOI-2285 b,TOI-2285,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.039805036,0.9601884,2.069931e-07,6.4087226e-06,PC
+TOI-2337 b,TOI-2337,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.120957986,0.87903094,1.9911417e-07,1.0911213e-05,PC
+TOI-2338 b,TOI-2338,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,6.581538e-05,0.03132955,0.019256487,0.9493481,IS
+TOI-2373 b,TOI-2373,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,2.0664986e-06,0.005201603,0.018344102,0.9764523,IS
+TOI-2411 b,TOI-2411,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,1.6855477e-06,0.001338706,0.059597738,0.9390618,IS
+TOI-2416 b,TOI-2416,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.026161803,0.97383726,4.3706807e-09,9.275322e-07,PC
+TOI-2427 b,TOI-2427,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,1.4816331e-07,0.0010521373,0.0012756068,0.997672,IS
+TOI-244 b,TOI-244,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.023657627,0.9763306,2.7321593e-07,1.1483218e-05,PC
+TOI-2445 b,TOI-2445,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06671959,0.9327784,8.340628e-06,0.0004935913,PC
+TOI-2459 b,TOI-2459,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.31293857,0.68704253,2.408381e-07,1.8666233e-05,PC
+TOI-2497 b,TOI-2497,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10644131,0.893557,1.35229765e-08,1.6477447e-06,PC
+TOI-2498 b,TOI-2498,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8294489,0.17054158,1.3603358e-09,9.516187e-06,EB
+TOI-251 b,TOI-251,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.16621393,0.8276113,0.0059697023,0.00020510275,PC
+TOI-2524 b,TOI-2524,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03372591,0.9662733,4.9384035e-09,8.3528084e-07,PC
+TOI-2525 b,TOI-2525,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.080015756,0.9199742,1.9556076e-07,9.874734e-06,PC
+TOI-2525 c,TOI-2525,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.080015756,0.9199742,1.9556076e-07,9.874734e-06,PC
+TOI-2545 b,TOI-2545,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.0060708816,0.99392736,9.870108e-09,1.7751497e-06,PC
+TOI-2567 b,TOI-2567,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.052328464,0.9476654,1.12701976e-07,5.951445e-06,PC
+TOI-257 b,TOI-257,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.6322745,0.36772144,1.0929031e-07,3.87478e-06,EB
+TOI-2570 b,TOI-2570,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.371892,0.62810487,9.9264e-08,3.0627107e-06,PC
+TOI-2583 A b,TOI-2583 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10881445,0.8911814,3.0873814e-08,4.127797e-06,PC
+TOI-2589 b,TOI-2589,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.9047266,0.09526967,4.8389236e-08,3.6002825e-06,EB
+TOI-262 b,TOI-262,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.019034978,0.98096484,4.2484536e-09,2.8649677e-07,PC
+TOI-2641 b,TOI-2641,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.166959,0.8330399,8.175881e-09,1.1816882e-06,PC
+TOI-2669 b,TOI-2669,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,1.470816e-07,0.0013273505,0.0019312386,0.99674135,IS
+TOI-269 b,TOI-269,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.042589184,0.9574078,1.4151195e-07,2.788694e-06,PC
+TOI-270 b,TOI-270,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.24045351,0.7595456,6.417044e-09,8.011061e-07,PC
+TOI-270 c,TOI-270,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.24045351,0.7595456,6.417044e-09,8.011061e-07,PC
+TOI-270 d,TOI-270,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.24045351,0.7595456,6.417044e-09,8.011061e-07,PC
+TOI-277 b,TOI-277,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.035303246,0.9646958,4.0680304e-09,9.384357e-07,PC
+TOI-2818 b,TOI-2818,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,9.167172e-05,0.008689885,0.10213255,0.8890859,IS
+TOI-2977 b,TOI-2977,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.07180544,0.92819273,4.328172e-08,1.7777053e-06,PC
+TOI-3023 b,TOI-3023,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.25551844,0.7444792,4.779021e-08,2.334466e-06,PC
+TOI-3082 b,TOI-3082,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.075642064,0.9243376,9.337877e-07,1.936316e-05,PC
+TOI-3235 b,TOI-3235,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.003013129,0.87212324,0.00014841837,0.1247152,PC
+TOI-332 b,TOI-332,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.015821872,0.9841739,4.6017817e-08,4.1330636e-06,PC
+TOI-3331 A b,TOI-3331 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,8.2117285e-06,0.009707104,0.0017366176,0.98854804,IS
+TOI-3362 b,TOI-3362,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.049842842,0.9501486,8.370493e-08,8.5319e-06,PC
+TOI-3364 b,TOI-3364,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.3597783,0.64021796,4.40345e-08,3.689709e-06,PC
+TOI-3540 A b,TOI-3540 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.00037512928,0.8929957,4.7835914e-05,0.106581345,PC
+TOI-3629 b,TOI-3629,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,3.673213e-05,0.1987524,0.0005017626,0.80070907,IS
+TOI-3688 A b,TOI-3688 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.001120271,0.9099354,0.0012465002,0.08769784,PC
+TOI-3693 b,TOI-3693,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.0008728213,0.024030063,0.3047713,0.6703259,IS
+TOI-3714 b,TOI-3714,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,2.7203976e-05,0.059725765,0.0004848163,0.9397621,IS
+TOI-3757 b,TOI-3757,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.1803327,0.8196667,4.3677955e-09,5.952258e-07,PC
+TOI-3785 b,TOI-3785,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,7.2779164e-07,0.0024767178,0.0019110697,0.9956115,IS
+TOI-3807 b,TOI-3807,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.008456478,0.99154234,6.0282246e-09,1.2006989e-06,PC
+TOI-3819 b,TOI-3819,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.38253587,0.6174602,7.203016e-07,3.2526984e-06,PC
+TOI-3884 b,TOI-3884,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.25185886,0.7481321,2.477527e-09,9.00806e-06,PC
+TOI-3912 b,TOI-3912,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.0056537036,0.00447733,0.1892239,0.80064505,IS
+TOI-3984 A b,TOI-3984 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8709005,0.12769891,1.0687859e-06,0.0013994268,EB
+TOI-4010 b,TOI-4010,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11805759,0.88193965,5.3699367e-08,2.673125e-06,PC
+TOI-4010 c,TOI-4010,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11805759,0.88193965,5.3699367e-08,2.673125e-06,PC
+TOI-4010 d,TOI-4010,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11805759,0.88193965,5.3699367e-08,2.673125e-06,PC
+TOI-4087 b,TOI-4087,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8267751,0.17322199,3.176737e-07,2.6855803e-06,EB
+TOI-411 b,HD 22946,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03915914,0.96083826,6.1486276e-08,2.5262136e-06,PC
+TOI-411 c,HD 22946,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03915914,0.96083826,6.1486276e-08,2.5262136e-06,PC
+TOI-4127 b,TOI-4127,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.18212667,0.81786674,8.6866585e-08,6.5689446e-06,PC
+TOI-4137 b,TOI-4137,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.37943354,0.62056386,3.6919694e-08,2.5648753e-06,PC
+TOI-4145 A b,TOI-4145 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.21620815,0.7837866,1.1474192e-08,5.2180153e-06,PC
+TOI-4184 b,TOI-4184,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.019238647,0.9807593,6.1975356e-08,1.868743e-06,PC
+TOI-421 b,TOI-421,2,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.17527047,0.8247267,1.601217e-08,2.8509494e-06,PC
+TOI-421 c,TOI-421,2,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.17527047,0.8247267,1.601217e-08,2.8509494e-06,PC
+TOI-4308 b,TOI-4308,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.020914035,0.97908264,8.9331365e-08,3.132075e-06,PC
+TOI-431 b,TOI-431,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.096235536,0.9037639,2.0528745e-09,5.2896104e-07,PC
+TOI-431 d,TOI-431,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.096235536,0.9037639,2.0528745e-09,5.2896104e-07,PC
+TOI-4329 b,TOI-4329,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.13334492,0.86665165,5.5230192e-08,3.3521017e-06,PC
+TOI-4342 b,TOI-4342,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03136015,0.9685865,4.215733e-06,4.9148854e-05,PC
+TOI-4342 c,TOI-4342,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03136015,0.9685865,4.215733e-06,4.9148854e-05,PC
+TOI-4377 b,TOI-4377,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11639528,0.8835923,3.6821518e-07,1.2073433e-05,PC
+TOI-4406 b,TOI-4406,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.21084782,0.78915054,8.811268e-09,1.6222192e-06,PC
+TOI-444 b,TOI-444,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11300775,0.88688624,1.449101e-06,0.000104567815,PC
+TOI-4479 b,TOI-4479,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.020872345,0.9791196,2.6028167e-07,7.84154e-06,PC
+TOI-451 b,TOI-451,2,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.20457101,0.79535747,7.960941e-07,7.0739196e-05,PC
+TOI-451 c,TOI-451,2,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.20457101,0.79535747,7.960941e-07,7.0739196e-05,PC
+TOI-451 d,TOI-451,2,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.20457101,0.79535747,7.960941e-07,7.0739196e-05,PC
+TOI-4551 b,TOI-4551,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,2.763987e-06,0.013940082,0.00597834,0.9800789,IS
+TOI-4562 b,TOI-4562,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.029131472,0.9707629,1.2420881e-05,9.32383e-05,PC
+TOI-4582 b,TOI-4582,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.057525568,0.9424622,2.4385542e-07,1.2000747e-05,PC
+TOI-4600 b,TOI-4600,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.13014123,0.8698559,4.742116e-08,2.8257818e-06,PC
+TOI-4600 c,TOI-4600,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.13014123,0.8698559,4.742116e-08,2.8257818e-06,PC
+TOI-4603 b,TOI-4603,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.054141313,0.94585454,2.281415e-08,4.1851386e-06,PC
+TOI-4641 b,TOI-4641,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.69834566,0.30165428,4.4213508e-10,2.0854593e-08,EB
+TOI-470 b,TOI-470,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10349704,0.89649945,6.875812e-08,3.4047157e-06,PC
+TOI-481 b,TOI-481,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8536998,0.14629784,7.091826e-08,2.29902e-06,EB
+TOI-4860 b,TOI-4860,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.00045405934,0.63720095,0.0012279225,0.36111704,PC
+TOI-500 b,TOI-500,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.027583022,0.9724157,4.2491674e-08,1.2265959e-06,PC
+TOI-5126 b,TOI-5126,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.18732938,0.81250894,9.214398e-05,6.947252e-05,PC
+TOI-5126 c,TOI-5126,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.18732938,0.81250894,9.214398e-05,6.947252e-05,PC
+TOI-5153 b,TOI-5153,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,6.094254e-05,0.034902718,0.035844296,0.929192,IS
+TOI-5174 b,TOI-5174,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.017062927,0.9829365,6.047603e-09,6.051504e-07,PC
+TOI-519 b,TOI-519,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.09615592,0.9038432,3.9384002e-08,8.3768583e-07,PC
+TOI-5293 A b,TOI-5293 A,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,6.764478e-06,0.00261269,0.01838909,0.9789915,IS
+TOI-530 b,TOI-530,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10027309,0.8997259,2.7589932e-08,9.362433e-07,PC
+TOI-532 b,TOI-532,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.13956532,0.86043173,9.7565476e-08,2.8493703e-06,PC
+TOI-5344 b,TOI-5344,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,1.7850212e-07,0.00054573594,0.0015400694,0.997914,IS
+TOI-5398 b,TOI-5398,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,3.2223826e-07,0.00078904326,0.086635984,0.91257465,IS
+TOI-5398 c,TOI-5398,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,3.2223826e-07,0.00078904326,0.086635984,0.91257465,IS
+TOI-540 b,TOI-540,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.16910605,0.8303231,9.933201e-07,0.00056985166,PC
+TOI-544 b,TOI-544,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.014543019,0.98545545,3.5272137e-08,1.4834688e-06,PC
+TOI-5542 b,TOI-5542,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.02704092,0.9729441,2.546223e-08,1.4963213e-05,PC
+TOI-558 b,TOI-558,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03042813,0.9695711,2.699554e-09,7.7065755e-07,PC
+TOI-559 b,TOI-559,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.000102215075,0.017158806,0.039959036,0.94277996,IS
+TOI-561 b,TOI-561,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.109001316,0.8909705,6.340265e-07,2.7470542e-05,PC
+TOI-561 c,TOI-561,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.109001316,0.8909705,6.340265e-07,2.7470542e-05,PC
+TOI-561 d,TOI-561,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.109001316,0.8909705,6.340265e-07,2.7470542e-05,PC
+TOI-561 e,TOI-561,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.109001316,0.8909705,6.340265e-07,2.7470542e-05,PC
+TOI-564 b,TOI-564,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.08755765,0.91243994,1.7090105e-07,2.2213846e-06,PC
+TOI-5678 b,TOI-5678,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03995911,0.9600372,8.2563005e-08,3.7363816e-06,PC
+TOI-5704 b,TOI-5704,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03658889,0.9633929,3.3143485e-07,1.7779774e-05,PC
+TOI-5803 b,TOI-5803,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,5.305646e-08,0.00013237995,0.00047756312,0.9993899,IS
+TOI-615 b,TOI-615,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.38711578,0.6128447,2.3981403e-07,3.9318264e-05,PC
+TOI-622 b,TOI-622,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.5880977,0.41189608,7.2178565e-08,6.0937045e-06,EB
+TOI-640 b,TOI-640,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.2320079,0.76799,6.2933547e-09,2.0752207e-06,PC
+TOI-672 b,TOI-672,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.10034317,0.89965564,1.6419929e-08,1.1473184e-06,PC
+TOI-674 b,TOI-674,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.04016196,0.95983714,1.0751837e-08,9.4887616e-07,PC
+TOI-677 b,TOI-677,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8723861,0.12758406,3.8428162e-08,2.9856317e-05,EB
+TOI-700 b,TOI-700,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.07127876,0.92871994,1.8809382e-08,1.3066071e-06,PC
+TOI-700 c,TOI-700,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.07127876,0.92871994,1.8809382e-08,1.3066071e-06,PC
+TOI-700 d,TOI-700,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.07127876,0.92871994,1.8809382e-08,1.3066071e-06,PC
+TOI-700 e,TOI-700,1,4,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.07127876,0.92871994,1.8809382e-08,1.3066071e-06,PC
+TOI-712 b,TOI-712,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.18840519,0.8115878,4.0056753e-07,6.6811963e-06,PC
+TOI-712 c,TOI-712,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.18840519,0.8115878,4.0056753e-07,6.6811963e-06,PC
+TOI-712 d,TOI-712,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.18840519,0.8115878,4.0056753e-07,6.6811963e-06,PC
+TOI-715 b,TOI-715,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.030546293,0.96943295,1.0221319e-06,1.9805522e-05,PC
+TOI-733 b,TOI-733,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.11136508,0.8886211,9.3095593e-07,1.2821861e-05,PC
+TOI-763 b,TOI-763,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.107080586,0.89291847,1.263311e-08,9.596558e-07,PC
+TOI-763 c,TOI-763,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.107080586,0.89291847,1.263311e-08,9.596558e-07,PC
+TOI-776 b,TOI-776,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.031475805,0.9685194,2.4733527e-07,4.6140253e-06,PC
+TOI-776 c,TOI-776,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.031475805,0.9685194,2.4733527e-07,4.6140253e-06,PC
+TOI-778 b,TOI-778,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.46915913,0.53080624,1.1233957e-07,3.4584384e-05,PC
+TOI-784 b,HD 307842,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.06775474,0.9322112,1.4734727e-06,3.2561315e-05,PC
+TOI-813 b,TOI-813,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.05120409,0.9487937,3.0115466e-08,2.0637272e-06,PC
+TOI-824 b,TOI-824,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.13005906,0.86993074,4.1975045e-07,9.697519e-06,PC
+TOI-833 b,TOI-833,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.03173668,0.9682597,4.846058e-07,3.0453798e-06,PC
+TOI-836 b,TOI-836,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.22290666,0.7770849,1.082485e-07,8.277157e-06,PC
+TOI-836 c,TOI-836,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.22290666,0.7770849,1.082485e-07,8.277157e-06,PC
+TOI-837 b,TOI-837,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.8556844,0.14403355,2.98349e-07,0.00028171885,EB
+TOI-858 B b,TOI-858 B,2,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.4059929,0.59399915,4.9152806e-07,7.4266068e-06,PC
+TOI-892 b,TOI-892,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.00032113286,0.040520504,0.095165215,0.86399317,IS
+TOI-905 b,TOI-905,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.76705194,0.23294604,4.3475012e-08,1.9303072e-06,EB
+TOI-908 b,TOI-908,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.022610418,0.977386,1.1708932e-07,3.4624084e-06,PC
+TOI-913 b,TOI-913,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.021066671,0.97892994,5.7998147e-08,3.3071192e-06,PC
+TOI-942 b,TOI-942,3,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,6.865307e-06,0.0042517334,0.9132146,0.082526736,V
+TOI-942 c,TOI-942,3,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,6.865307e-06,0.0042517334,0.9132146,0.082526736,V
+TOI-954 b,TOI-954,1,1,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.0024409418,0.023066193,0.3188867,0.65560615,IS
+TOI-969 b,TOI-969,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,2.320027e-06,0.010500493,0.00041804422,0.98907906,IS
+WASP-132 c,WASP-132,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.6774256,0.32255983,4.8360185e-08,1.44513915e-05,EB
+WASP-84 c,WASP-84,1,2,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.95946884,0.040511847,5.866317e-07,1.8798934e-05,EB
+pi Men c,HD 39091,1,3,Transit,Transiting Exoplanet Survey Satellite (TESS),PC,0.89648485,0.101541474,9.5288485e-08,0.0019736155,EB
