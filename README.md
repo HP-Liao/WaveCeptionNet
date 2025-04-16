@@ -16,6 +16,9 @@ Paper available at: https://iopscience.iop.org/article/10.3847/1538-3881/ad298f
 
 For questions, please feel free to open an issue or contact us.
 
+Institution: Harbin Engineering University (hrbeu.edu.cn)
+
+Author: 廖慧萍(liao_hui_ping) , Email: lhp@hrbeu.edu.cn. Corresponding Author: 李玉祥(li_yu_xiang), Email: liyuxiang11@hrbeu.edu.cn
 
 ## machine-readable table containing a list of the TCEs and associated information
 
