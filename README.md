@@ -12,8 +12,8 @@ This repository contains the official implementation of the methods described in
 
 We propose WaveCeptionNet, a deep learning model designed to identify exoplanet candidates from stellar light curves. The model leverages wavelet transforms and an Inception-inspired architecture to improve accuracy and generalization in transit signal classification.
 
-📄 Paper available at: https://iopscience.iop.org/article/10.3847/1538-3881/ad298f
-📧 For questions, please feel free to open an issue or contact us.
+Paper available at: https://iopscience.iop.org/article/10.3847/1538-3881/ad298f
+For questions, please feel free to open an issue or contact us.
 
 
 ## machine-readable table containing a list of the TCEs and associated information
